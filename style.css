@@ -1,0 +1,31 @@
+*
+body{font-family: 'Poppins', sans-serif; margin: 0px; padding: 0px;}
+.top-section{display: flex ; justify-content: space-around ; width: 90%; ;padding-left:  5%; margin: 2% 5%; margin-top: 5%; } 
+.top-section img{width: 300px; height: 300px; padding: 10px 40px; margin: 20px 50px; }
+.header-area{border-left: 3px solid; padding: 2px 2px;
+    border-image: linear-gradient(rgb(152, 250, 114), rgb(231, 9, 38));
+    border-image-slice: 1;} 
+h1{font-size: 40px;}
+#idparagraph{text-align:left;}
+#mission{color: rgba(0, 238, 255, 0.815);}
+.button{text-decoration: none; padding: 10px 20px; border-radius: 5px; background: cornflowerblue; color: rgba(255, 0, 85, 0.945) ; font-weight: 700; transition: 0.7s;}
+.button:hover{background: lawngreen; color: magenta; cursor: pointer ; }
+.middle-sub-section{display: flex; justify-content: space-around; width: 90%; padding: 10px; margin-left: 3%;  }
+.middle-img{width: 100px; height: 100px; padding: 10px;} 
+.mission-vission-goals1{background: #AFEEEE; margin-left: 20px; padding: 10px; border-radius: 10px;}
+.mission-vission-goals2{background: #E3F9A6; margin-left: 20px; padding: 10px; border-radius: 10px;}
+.mission-vission-goals3{background: #C9BE62; margin-left: 20px; padding: 10px; border-radius: 10px;}
+.middle-section{text-align: center;}
+#my-mision{color: crimson;}
+.develop{display: flex; justify-content: space-around; width: 90%; padding-left:  5%; margin-left: 5%; margin-right: 5%; margin-top: 5%; background-image: url(images/shapes/shape-1.png); background-repeat: no-repeat; background-position: left; background-size: 200px; }
+.develop img{width: 300px; height: 300px; padding: 10px; margin-left: 60px 60px; margin-bottom: 30px; }
+#develop{width: 500px; height: 300px; margin: 5px 30px;}
+.middle-section-3{display: flex; justify-content: space-around; width: 90%; padding: 2% 0%; margin: 2% 5%; background-image: url(images/shapes/shape-1.png); background-repeat: no-repeat; background-position:right ; background-size: 140px; background-position-y: 90% ;}
+.middle-section-3 img{width: 300px; height: 300px; padding: 10px 50px; margin: 50px 20px;}
+.application{display: flex; width: 90%; padding: 10px 10px; margin-left: 5%; margin-bottom: 10px; background-image: url(images/shapes/shape-9.png); background-repeat: no-repeat; background-size: 400px; padding-bottom: 20px;}
+.application img{width: 300px; height: 350px; margin: 20px 50px 70px 50px; padding-left: 15px;}
+.corona-app{text-align: center;}
+.footer-class{background: rgba(12, 12, 219, 0.89); text-align: center; height: 100px;}
+#mission-2022{color: rgb(240, 113, 113); font-style:italic;}
+.footer-2022{color: rgb(223, 211, 180);}
+#hard-work{color: rgb(228, 212, 220); font-size: 11px;}
